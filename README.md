@@ -1,7 +1,7 @@
 # 4vanyek
 ## Мои проекты:
 [trvml](https://github.com/4vanyek/trvml) - репозиторий для личного сайта  
-[devcat86-revamped](https://github.com/4vanyek/devcat86-revamped) - переделал сайт для [devcat86](https://github.com/devcat86)  
+[devcat86-revamped](https://github.com/4vanyek/devcat86-revamped) - переделал сайт для [devcat86](https://github.com/devcat86) (сделано примерно за час btw)  
 [CybDevTeam/website-src](https://github.com/cybdevteam/website-src) - сайт для моей команды (CybDevTeam)   
 [GDPS-Website-Template-Improved](https://github.com/4vanyek/GDPS-Site-Template-Improved) - шаблон для GDPS сайта (немного поломанный)
 ## Статистика:
