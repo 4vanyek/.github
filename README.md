@@ -16,4 +16,8 @@
 [comments](https://github.com/4vanyek/comments) - репозиторий для комментариев на сайте https://therealvanyek.ml/
 
 ---
+
+###### github pro бесполезен
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4vanyek&label=Profile%20views&color=63ef75&style=plastic" alt="4vanyek" /></p>
