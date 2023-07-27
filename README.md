@@ -13,7 +13,7 @@
 </a>
 
 ## Другое:
-[comments](https://github.com/4vanyek/comments) - репозиторий для комментариев на сайте https://therealvanyek.ml/
+[comments](https://github.com/4vanyek/comments) - репозиторий для комментариев на сайте https://realvanyek.eu.org/
 
 ---
 
