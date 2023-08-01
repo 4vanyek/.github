@@ -26,6 +26,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4vanyek&layout=donut&langs_count=8&card_width=320" />
 </a>
 
+
+[![wakatime](https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg)](https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a)
+
 ## Другое:
 [comments](https://github.com/4vanyek/comments) - репозиторий для комментариев на сайте https://realvanyek.eu.org/
 
