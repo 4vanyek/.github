@@ -14,6 +14,7 @@
 <a href="https://ru.wikipedia.org/wiki/CSS">
   <img height=48 src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
 </a>
+и (немного)
 <a href="https://www.php.net/">
   <img height=48 src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
 </a>
