@@ -19,6 +19,9 @@
 <a href="https://getbootstrap.com">
   <img height=48 src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg">
 </a>
+<a href="https://www.mysql.com">
+  <img height=48 src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
+</a>
 (и немного)
 <a href="https://www.php.net/">
   <img height=48 src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
