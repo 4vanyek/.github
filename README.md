@@ -3,8 +3,6 @@
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - многоцелевой Discord бот  
 [qoritsuki-docs](https://github.com/4vanyek/qoritsuki-docs) - документация для Qoritsuki  
 [trvml](https://github.com/4vanyek/trvml) - репозиторий для личного сайта  
-[devcat86-revamped](https://github.com/4vanyek/devcat86-revamped) - переделал сайт для [devcat86](https://github.com/devcat86) (примерно за час btw)  
-[CybDevTeam/cybdevteam.github.io](https://github.com/cybdevteam/cybdevteam.github.io) - сайт для моей команды [(CybDevTeam)](https://github.com/CybDevTeam)   
 [GDPS-Website-Template-Improved](https://github.com/4vanyek/GDPS-Site-Template-Improved) - шаблон для GDPS сайта (немного поломанный)
 ## Скиллы:
 <a href="https://python.org">
