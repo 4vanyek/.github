@@ -1,9 +1,9 @@
-# 4vanyek
+# MystieHum
 ## Мои проекты:
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - многоцелевой Discord бот  
 [qoritsuki-docs](https://github.com/4vanyek/qoritsuki-docs) - документация для Qoritsuki  
-[trvml](https://github.com/4vanyek/trvml) - репозиторий для личного сайта  
-[GDPS-Website-Template-Improved](https://github.com/4vanyek/GDPS-Site-Template-Improved) - шаблон для GDPS сайта (немного поломанный)
+[trvml](https://github.com/MystieHum/trvml) - репозиторий для личного сайта  
+[GDPS-Website-Template-Improved](https://github.com/MystieHum/GDPS-Site-Template-Improved) - шаблон для GDPS сайта (немного поломанный)
 ## Скиллы:
 <a href="https://python.org">
   <img height=48 title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
@@ -35,7 +35,7 @@
 <a href="https://discord.com/users/658287767490527243">
   <img height=48 title="Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg">
 </a> 
-<a href="https://telegram.dog/trv_official1">
+<a href="https://telegram.dog/MystieHum">
   <img height=48 title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
 </a>
 <a href="https://forum.realvanyek.eu.org/index.php?action=profile;u=1">
@@ -50,20 +50,20 @@
 
 ## Статистика:
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=4vanyek" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4vanyek&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg)](https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a)
 
 ## Другое:
-[comments](https://github.com/4vanyek/comments) - репозиторий для комментариев на сайте https://realvanyek.eu.org/
+[comments](https://github.com/MystieHum/comments) - репозиторий для комментариев на сайте https://realvanyek.eu.org/
 
 ---
 
 ###### github pro бесполезен
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4vanyek&label=Profile%20views&color=63ef75&style=plastic" alt="4vanyek" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MystieHum&label=Profile%20views&color=63ef75&style=plastic" alt="MystieHum" /></p>
