@@ -50,10 +50,10 @@
 
 ## Статистика:
 <a href="#">
-  <img height=200 align="center" src="https://readme-stats-fork-tawny.vercel.app/api?username=MystieHum" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://readme-stats-fork-tawny.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg)](https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a)
