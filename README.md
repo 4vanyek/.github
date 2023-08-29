@@ -38,7 +38,7 @@
 <a href="https://telegram.dog/MystieHum">
   <img height=48 title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
 </a>
-<a href="https://forum.realvanyek.eu.org/index.php?action=profile;u=1">
+<a href="https://rvtech.eu.org/profile/UnnaMd">
   <img height=48 title="Мой форум" src="https://forum.realvanyek.eu.org/rvtech_icon.png">
 </a>
 <a href="https://4pda.to/forum/index.php?showuser=10840063">
