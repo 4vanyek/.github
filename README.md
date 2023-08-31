@@ -49,14 +49,19 @@
 </a>
 
 ## Статистика:
-<a href="#">
+<p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
-</a>
-<a href="#">
+</p>
+<p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
-</a>
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=averyocean65&" alt="averyocean65" /></p>
 
-[![wakatime](https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg)](https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a)
+<p>
+<img alt="wakatime" src="https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg"><a href="https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a"></a></img>
+
+<img src="https://komarev.com/ghpvc/?username=MystieHum&label=Profile%20views&color=9035ff&style=flat" alt="MystieHum profile stats" />
+</p>
 
 ## Другое:
 [comments](https://github.com/MystieHum/comments) - репозиторий для комментариев на сайте https://realvanyek.eu.org/
@@ -64,6 +69,3 @@
 ---
 
 ###### github pro бесполезен
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MystieHum&label=Profile%20views&color=63ef75&style=plastic" alt="MystieHum" /></p>
