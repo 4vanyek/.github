@@ -51,13 +51,13 @@
 ## Статистика:
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" /> 
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MystieHum&" alt="MystieHum streak stats" />
 </p>
-<p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MystieHum&" alt="MystieHum streak stats" /></p>
+<p></p>
 
 <p>
 <img alt="wakatime" src="https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg"><a href="https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a"></a></img>
-
 <img src="https://komarev.com/ghpvc/?username=MystieHum&label=Profile%20views&color=9035ff&style=flat" alt="MystieHum profile stats" />
 </p>
 
