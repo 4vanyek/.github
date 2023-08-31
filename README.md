@@ -50,12 +50,12 @@
 
 ## Статистика:
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
 </p>
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=averyocean65&" alt="averyocean65" /></p>
+<p><img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MystieHum&" alt="MystieHum streak stats" /></p>
 
 <p>
 <img alt="wakatime" src="https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg"><a href="https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a"></a></img>
