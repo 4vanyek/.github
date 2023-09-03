@@ -1,8 +1,8 @@
 # MystieHum
 ## Мои проекты:
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - многоцелевой Discord бот  
-[qoritsuki-docs](https://github.com/4vanyek/qoritsuki-docs) - документация для Qoritsuki  
-[trvml](https://github.com/MystieHum/trvml) - репозиторий для личного сайта  
+[qoritsuki-docs](https://github.com/MystieHum/qoritsuki-docs) - документация для Qoritsuki  
+[mystie.eu.org](https://github.com/MystieHum/mystie.eu.org) - репозиторий для личного сайта  
 [GDPS-Website-Template-Improved](https://github.com/MystieHum/GDPS-Site-Template-Improved) - шаблон для GDPS сайта (немного поломанный)
 ## Скиллы:
 <a href="https://python.org">
