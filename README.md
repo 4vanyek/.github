@@ -1,7 +1,7 @@
 # MystieHum
-## Мои проекты:
+## Проекты:
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - многоцелевой Discord бот  
-[qoritsuki-docs](https://github.com/MystieHum/qoritsuki-docs) - документация для Qoritsuki  
+[Qoritsuki Docs](https://github.com/MystieHum/qoritsuki-docs) - документация для Qoritsuki  
 [mystie.eu.org](https://github.com/MystieHum/mystie.eu.org) - репозиторий для личного сайта  
 [GDPS-Website-Template-Improved](https://github.com/MystieHum/GDPS-Site-Template-Improved) - шаблон для GDPS сайта (немного поломанный)
 ## Скиллы:
