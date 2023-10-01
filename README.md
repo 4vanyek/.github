@@ -35,7 +35,7 @@
 <a href="https://discord.com/users/658287767490527243">
   <img height=48 title="Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg">
 </a>
-<a href="https://mas.to/@mystie">
+<a href="https://wetdry.world/@mystie">
   <img height=48 title="Mastodon" src="https://joinmastodon.org/logos/logo-purple.svg">
 </a>
 <a href="https://telegram.dog/MystieHum">
