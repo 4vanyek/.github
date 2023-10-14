@@ -1,4 +1,9 @@
-# MystieHum
+<p align="center">
+  <img src="https://realvanyek.eu.org/files/img/mystiehum_new_full.png" width="350">
+  <br>
+  <i>your typical web developer / designer</i>
+</p>  
+
 ## Projects:
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - multipurpose Discord bot (down for now)  
 [Qoritsuki Docs](https://github.com/MystieHum/qoritsuki-docs) - documentation for Qoritsuki  
