@@ -59,6 +59,7 @@
 </p>
 <p></p>
 
+<a href="https://discord.com/users/658287767490527243"><img align="center" src="https://lanyard.cnrad.dev/api/658287767490527243?bg=1b0039" alt="Discord Presence"></a>
 <p>
 <img alt="wakatime" src="https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg"><a href="https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a"></a></img>
 <img src="https://komarev.com/ghpvc/?username=MystieHum&label=Profile%20views&color=9035ff&style=flat" alt="MystieHum profile stats" />
