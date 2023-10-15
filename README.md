@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://realvanyek.eu.org/files/img/mystiehum_new_full.png" width="350">
+  <img src="https://realvanyek.eu.org//files/img/mystiehum_new_full.png" width="350">
   <br>
   <i>your typical web developer / designer</i>
 </p>  
