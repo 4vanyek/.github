@@ -67,7 +67,7 @@
 </p>
 
 ## Other:
-[comments](https://github.com/MystieHum/comments) - repo for comments on https://realvanyek.eu.org/
+[comments](https://github.com/MystieHum/comments) - repo for comments on https://realvanyek.eu.org/ & https://mystie.is-a.dev/feedback.html
 
 ---
 
