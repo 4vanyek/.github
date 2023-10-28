@@ -7,7 +7,7 @@
 ## Projects:
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - multipurpose Discord bot (down for now)  
 [Qoritsuki Docs](https://github.com/MystieHum/qoritsuki-docs) - documentation for Qoritsuki  
-[mystie.eu.org](https://github.com/MystieHum/mystie.eu.org) - my website  
+[mystie.is-a.dev](https://github.com/MystieHum/web) - my website  
 ## Skills:
 <a href="https://python.org">
   <img height=48 title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
