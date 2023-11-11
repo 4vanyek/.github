@@ -42,6 +42,9 @@
 <a href="https://wetdry.world/@mystie">
   <img height=48 title="Mastodon" src="https://joinmastodon.org/logos/logo-purple.svg">
 </a>
+<a href="xmpp:mystie@macaw.me">
+  <img height=48 title="XMPP" src="https://xmpp.org/images/logos/xmpp-logo.svg">
+</a>
 <a href="https://telegram.dog/MystieHum">
   <img height=48 title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
 </a>
