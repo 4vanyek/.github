@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://realvanyek.eu.org//files/img/mystiehum_new_full.png" width="350">
+  <img src="https://realvanyek.eu.org/files/img/mystieneko.svg" width="350">
   <br>
   <i>your typical web developer / designer</i>
 </p>  
 
 ## Projects:
 [Qoritsuki](https://realvanyek.eu.org/qoritsuki) - multipurpose Discord bot (down for now)  
-[Qoritsuki Docs](https://github.com/MystieHum/qoritsuki-docs) - documentation for Qoritsuki  
-[mystie.is-a.dev](https://github.com/MystieHum/web) - my website  
+[Qoritsuki Docs](https://github.com/mystieneko/qoritsuki-docs) - documentation for Qoritsuki  
+[mystie.is-a.dev](https://github.com/mystieneko/web) - my website  
 ## Skills:
 <a href="https://python.org">
   <img height=48 title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
@@ -45,7 +45,7 @@
 <a href="xmpp:mystie@macaw.me">
   <img height=48 title="XMPP" src="https://xmpp.org/images/logos/xmpp-logo.svg">
 </a>
-<a href="https://telegram.dog/MystieHum">
+<a href="https://telegram.dog/mystieneko">
   <img height=48 title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
 </a>
 <a href="https://4pda.to/forum/index.php?showuser=10840063">
@@ -57,20 +57,20 @@
 
 ## Statistics:
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MystieHum" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MystieHum&layout=donut&langs_count=8&card_width=320" /> 
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MystieHum&" alt="MystieHum streak stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mystieneko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mystieneko&layout=donut&langs_count=8&card_width=320" /> 
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mystieneko&" alt="mystieneko streak stats" />
 </p>
 <p></p>
 
 <a href="https://discord.com/users/658287767490527243"><img align="center" src="https://lanyard.cnrad.dev/api/658287767490527243?bg=1b0039" alt="Discord Presence"></a>
 <p>
 <img alt="wakatime" src="https://wakatime.com/badge/user/c218e10a-f09b-4bc6-86b3-b2192345f44a.svg"><a href="https://wakatime.com/@c218e10a-f09b-4bc6-86b3-b2192345f44a"></a></img>
-<img src="https://komarev.com/ghpvc/?username=MystieHum&label=Profile%20views&color=9035ff&style=flat" alt="MystieHum profile stats" />
+<img src="https://komarev.com/ghpvc/?username=mystieneko&label=Profile%20views&color=9035ff&style=flat" alt="mystieneko profile stats" />
 </p>
 
 ## Other:
-[comments](https://github.com/MystieHum/comments) - repo for comments on my websites
+[comments](https://github.com/mystieneko/comments) - repo for comments on my websites
 
 ---
 
