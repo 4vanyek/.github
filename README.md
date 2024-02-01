@@ -1,3 +1,5 @@
+moved to Codeberg: https://codeberg.org/mystie
+
 <p align="center">
   <img src="https://realvanyek.eu.org/files/img/mystieneko.svg" width="350">
   <br>
